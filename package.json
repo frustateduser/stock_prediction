@@ -1,0 +1,17 @@
+{
+  "name": "stock_prediction",
+  "version": "1.0.0",
+  "main": "stock.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "koustubh badshah, frustateduser",
+  "license": "ISC",
+  "description": "stock prediction using machine learning",
+  "keywords": [
+    "stock",
+    "prediction",
+    "machine",
+    "learning"
+  ]
+}
