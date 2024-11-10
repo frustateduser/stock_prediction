@@ -7,11 +7,12 @@
   },
   "author": "koustubh badshah, frustateduser",
   "license": "ISC",
-  "description": "stock prediction using machine learning",
+  "description": "stock prediction using machine learning and LTSM algorithm",
   "keywords": [
     "stock",
     "prediction",
     "machine",
-    "learning"
+    "learning",
+    "LTSM"
   ]
 }
