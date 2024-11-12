@@ -86,3 +86,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/) for building and training the LSTM model.
 - [scikit-learn](https://scikit-learn.org/) for data preprocessing utilities.
 - [ta](https://github.com/bukosabino/ta) for technical analysis indicators.
+
+
+
+![output graph for close price of TSLA(tesla) stocks](output.png "output graph for close price of TSLA(tesla) stocks")
